@@ -23,4 +23,4 @@
 
 ## Stats
 ![ee-son's GitHub stats](.github/profile/stats.svg)
-![ee-son's GitHub stats - All Ranks](.github/profile/top-langs.svg)
+![ee-son's GitHub stats - Top Languages](.github/profile/top-langs.svg)
