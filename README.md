@@ -22,5 +22,5 @@
 </div>
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ee-son&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ee-son&layout=compact)
+![ee-son's GitHub stats](.github/profile/stats.svg)
+![ee-son's GitHub stats - All Ranks](.github/profile/top-langs.svg)
