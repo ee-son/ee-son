@@ -39,7 +39,7 @@ jobs:
           git config user.name "ee-son"
           git config user.email "isan.faizun.hidar@mail.ugm.ac.id"
 
-          git add profile/*.svg
+          git add .github/profile/*.svg
 
           if git diff --cached --quiet; then
             echo "No changes"
